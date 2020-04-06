@@ -1,0 +1,17 @@
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\aws-beanstalk-tools-defaults.json
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.csprojAssemblyReference.cache
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.RazorAssemblyInfo.cache
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.RazorAssemblyInfo.cs
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.AssemblyInfoInputs.cache
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.AssemblyInfo.cs
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\ioiooiiioiollkklkllilililliilililiililiklil.deps.json
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\ioiooiiioiollkklkllilililliilililiililiklil.runtimeconfig.json
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\ioiooiiioiollkklkllilililliilililiililiklil.runtimeconfig.dev.json
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\ioiooiiioiollkklkllilililliilililiililiklil.dll
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\bin\Debug\netcoreapp2.2\ioiooiiioiollkklkllilililliilililiililiklil.pdb
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\ioiooiiioiollkklkllilililliilililiililiklil.dll
+C:\Users\SandeepGa\source\repos\CoreApi\CoreApi\obj\Debug\netcoreapp2.2\ioiooiiioiollkklkllilililliilililiililiklil.pdb
