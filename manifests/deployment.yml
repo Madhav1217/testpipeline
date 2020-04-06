@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: madhavtestpipeline 
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: madhavtestpipeline 
+    spec:
+      containers:
+        - name: madhavtestpipeline 
+          image: testmadhav.azurecr.io/madhavtestpipeline
+          ports:
+          - containerPort: 80
